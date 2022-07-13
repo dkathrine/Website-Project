@@ -1,0 +1,34 @@
+body {
+    background-color: lightgray;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+
+#totop {
+    text-decoration: none;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+.footer {
+    padding: 15px;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    font-size: 1.5em;
+    background-color: grey;
+    border: 2px solid grey;
+    margin-top: 9em;
+}
+
+.footer a{
+    color: black;
+    padding: 5px;
+    margin: auto;
+    text-decoration: none;
+}
+
+.footer a:hover{
+    background-color: darkgray;
+}
