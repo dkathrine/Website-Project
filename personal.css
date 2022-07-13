@@ -1,0 +1,30 @@
+body {
+  background-color: #000;
+  font-family: "Montserrat", sans-serif;
+}
+
+.title {
+  padding: 50px;
+  color: #fff;
+  font-size: 2em;
+  font-weight: bold;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.title a {
+  margin-bottom: 50px;
+  text-decoration: none;
+}
+.title a:hover {
+  color: aqua;
+}
+.content {
+  border: 3px solid rgb(27, 107, 182);
+  padding: 50px;
+  margin: 100px;
+  text-align: center;
+  color: #fff;
+  font-size: 1.6em;
+  letter-spacing: 1px;
+}
