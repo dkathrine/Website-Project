@@ -19,6 +19,7 @@ body {
     text-align: center;
     font-size: 1.5em;
     background-color: grey;
+    border-radius: 10px;
     border: 2px solid grey;
     margin-top: 9em;
 }
@@ -31,5 +32,6 @@ body {
 }
 
 .footer a:hover{
+    border-radius: 6px;
     background-color: darkgray;
 }
